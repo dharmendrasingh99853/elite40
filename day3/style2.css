@@ -1,0 +1,19 @@
+*{
+    margin:o;
+    padding:0;
+
+}
+
+ul{
+    list-style:none;
+   
+}
+ul li{
+    display:inline;
+    margin-right:10px;
+    text-transform:lowercase;
+    cursor:default;
+}
+ul li.hover{
+    color:red;
+}                    
